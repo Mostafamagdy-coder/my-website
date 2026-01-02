@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+ <title>RenewTech Energy</title>
 </head>
 <body>
   <h1>Hello</h1>
   <p>This is my website</p>
 </body>
+
 </html>
